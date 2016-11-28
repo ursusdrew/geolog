@@ -1,0 +1,20 @@
+BODY {
+	font-family : Tahoma;
+	font-size : 12px;
+}
+TD {
+	font-size : 80%;
+}
+TD.menu {
+	color : White;
+	text-align : center;
+	font-size : 70%;
+}
+A.menu {
+	color : White;
+	text-decoration : none;
+}
+A:HOVER.menu {
+	color : Yellow;
+	text-decoration : underline;
+}
